@@ -6,6 +6,8 @@ Script name: Self-organising Maps for the production of landscape, farmed landsc
 
 Purpose of script: To decide on the formulation of the SOM grid and to run the 1000 iterations of the SOM on Tier 1 inputs. Then Sort the results of SOM iterations to derive outputs for archetypes
 
+If you use the information/code in this script, please reference the ERL paper.
+
 Author: Cecily Goodwin
 
 Date Created: 2022-06-22
