@@ -24,8 +24,8 @@ Description of the input data required to replicate these analyses can be found 
 - Produces and stores a csv file storing all results of the clustering analysis: ClusterNumber_Tier1s_all_indicies.csv
 - Produces and stores 10 R data files of 100 SOM iterations each: SOMs 100 - 1000.Rdata
 
-Produces the following Openly accessible outputs, which can be found at EIDC (https://doi.org/10.5285/3b44375a-cbe6-468c-9395-41471054d0f3):
-      - 1 raster object: Tier1.tif: the assignment of each 1km square in GB to an archetype (Band 1) and the distance of each 1km square from its assigned archetype (Band 2)
-      - 1 csv files: Tier1_code_table.csv: the average codebook vectors of each archetype based on the iterations which produce the most consistent set of archetypes
+Produces the following outputs:
+- 1 raster object: Tier1.tif: the assignment of each 1km square in GB to an archetype (Band 1) and the distance of each 1km square from its assigned archetype (Band 2)
+- 1 csv files: Tier1_code_table.csv: the average codebook vectors of each archetype based on the iterations which produce the most consistent set of archetypes
 
 Runs a naming procedure at the end to ascribe descriptors to each archetype based on the variables they are associated with.
